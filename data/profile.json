@@ -1,6 +1,6 @@
 {
   "name": "Chrystian Andrade",
-  "photo": "https://github.com/Csrand/js-developer-portfolio/blob/main/assets/img/me.jpeg?raw=true",
+  "photo": "https://csrand.github.io/js-developer-portfolio/assets/img/me.jpeg",
   "job": "Estagiário na D.A Aviação",
   "location": "São Paulo - SP",
   "phone": "(11) 94512-7168",
@@ -31,8 +31,7 @@
         "name": "Postgresql",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
       }
-      
-       ],
+    ],
     "softSkills": [
       "Empatia",
       "Liderança",
